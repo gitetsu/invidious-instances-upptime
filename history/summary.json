@@ -436,19 +436,19 @@
     "url": "https://invidious.lidarshield.cloud/",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ad.png",
     "slug": "invidious-lidarshield-cloud",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
-    "time": 1007,
-    "timeDay": 1007,
-    "timeWeek": 1007,
-    "timeMonth": 1007,
-    "timeYear": 1007,
+    "status": "up",
+    "uptime": "72.18%",
+    "uptimeDay": "72.18%",
+    "uptimeWeek": "72.18%",
+    "uptimeMonth": "72.18%",
+    "uptimeYear": "72.18%",
+    "time": 918,
+    "timeDay": 918,
+    "timeWeek": 918,
+    "timeMonth": 918,
+    "timeYear": 918,
     "dailyMinutesDown": {
-      "2023-02-01": 0
+      "2023-02-01": 14
     }
   },
   {
