@@ -1,29 +1,114 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: gitetsu # Your GitHub organization or username, where this repository lives
+repo: invidious-instances-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: invidious.snopyta.org
+    url: https://invidious.snopyta.org/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
+  - name: yewtu.be
+    url: https://yewtu.be/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
+  - name: invidious.kavin.rocks
+    url: https://invidious.kavin.rocks/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: vid.puffyan.us
+    url: https://vid.puffyan.us/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: invidious.namazso.eu
+    url: https://invidious.namazso.eu/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: inv.riverside.rocks
+    url: https://inv.riverside.rocks/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: yt.artemislena.eu
+    url: https://yt.artemislena.eu/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: invidious.flokinet.to
+    url: https://invidious.flokinet.to/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ro.png
+  - name: invidious.esmailelbob.xyz
+    url: https://invidious.esmailelbob.xyz/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: inv.bp.projectsegfau.lt
+    url: https://inv.bp.projectsegfau.lt/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
+  - name: y.com.sb
+    url: https://y.com.sb/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: invidious.tiekoetter.com
+    url: https://invidious.tiekoetter.com/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: invidious.nerdvpn.de
+    url: https://invidious.nerdvpn.de/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: inv.vern.cc
+    url: https://inv.vern.cc/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: invidious.slipfox.xyz
+    url: https://invidious.slipfox.xyz/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: watch.thekitty.zone
+    url: https://watch.thekitty.zone/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: invidious.dhusch.de
+    url: https://invidious.dhusch.de/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: inv.odyssey346.dev
+    url: https://inv.odyssey346.dev/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: invidious.baczek.me
+    url: https://invidious.baczek.me/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/pl.png
+  - name: invidious.weblibre.org
+    url: https://invidious.weblibre.org/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/cl.png
+  - name: invidious.privacydev.net
+    url: https://invidious.privacydev.net/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: yt.funami.tech
+    url: https://yt.funami.tech/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/kr.png
+  - name: invidious.drivet.xyz
+    url: https://invidious.drivet.xyz/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/pl.png
+  - name: vid.priv.au
+    url: https://vid.priv.au/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sg.png
+  - name: invidious.lidarshield.cloud
+    url: https://invidious.lidarshield.cloud/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ad.png
+  - name: invidious.silur.me
+    url: https://invidious.silur.me/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: iv.melmac.space
+    url: https://iv.melmac.space/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: iv.ggtyler.dev
+    url: https://iv.ggtyler.dev/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: invidious.epicsite.xyz
+    url: https://invidious.epicsite.xyz/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/uk.png
+  - name: invidious.sethforprivacy.com 
+    url: https://invidious.sethforprivacy.com/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: yt.oelrichsgarcia.de
+    url: https://yt.oelrichsgarcia.de/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /invidious-instances-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: invidious Instances Upptime
+  introTitle: invidious Instances Upptime
+  introMessage: This status page monitors [invidious instances](https://github.com/iv-org/invidious) for uptime.
   navbar:
     - title: Status
-      href: /
+      href: /invidious-instances-upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
