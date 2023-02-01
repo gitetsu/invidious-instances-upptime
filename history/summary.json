@@ -59,19 +59,17 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "vid-puffyan-us",
     "status": "up",
-    "uptime": "83.02%",
-    "uptimeDay": "83.02%",
-    "uptimeWeek": "83.02%",
-    "uptimeMonth": "83.02%",
-    "uptimeYear": "83.02%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4012,
     "timeDay": 4012,
     "timeWeek": 4012,
     "timeMonth": 4012,
     "timeYear": 4012,
-    "dailyMinutesDown": {
-      "2023-02-01": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "invidious.namazso.eu",
@@ -150,19 +148,19 @@
     "url": "https://invidious.esmailelbob.xyz/",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "invidious-esmailelbob-xyz",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
-    "time": 247,
-    "timeDay": 247,
-    "timeWeek": 247,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "status": "up",
+    "uptime": "71.46%",
+    "uptimeDay": "71.46%",
+    "uptimeWeek": "71.46%",
+    "uptimeMonth": "71.46%",
+    "uptimeYear": "71.46%",
+    "time": 849,
+    "timeDay": 849,
+    "timeWeek": 849,
+    "timeMonth": 849,
+    "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-02-01": 1
+      "2023-02-01": 31
     }
   },
   {
@@ -261,19 +259,17 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "invidious-slipfox-xyz",
     "status": "up",
-    "uptime": "83.36%",
-    "uptimeDay": "83.36%",
-    "uptimeWeek": "83.36%",
-    "uptimeMonth": "83.36%",
-    "uptimeYear": "83.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2157,
     "timeDay": 2157,
     "timeWeek": 2157,
     "timeMonth": 2157,
     "timeYear": 2157,
-    "dailyMinutesDown": {
-      "2023-02-01": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "watch.thekitty.zone",
