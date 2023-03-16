@@ -1,7 +1,7 @@
 url: https://invidious.lidarshield.cloud/
-status: up
-code: 200
-responseTime: 715
-lastUpdated: 2023-03-16T10:54:08.981Z
+status: down
+code: 500
+responseTime: 444
+lastUpdated: 2023-03-16T11:14:10.841Z
 startTime: Wed Feb 01 2023 14:44:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
