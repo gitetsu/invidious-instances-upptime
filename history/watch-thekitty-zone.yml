@@ -1,7 +1,7 @@
 url: https://watch.thekitty.zone/
-status: up
-code: 200
-responseTime: 841
-lastUpdated: 2023-03-20T23:08:16.769Z
+status: down
+code: 503
+responseTime: 589
+lastUpdated: 2023-03-21T05:10:58.673Z
 startTime: Wed Feb 01 2023 14:44:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
