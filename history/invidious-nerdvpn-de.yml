@@ -1,7 +1,7 @@
 url: https://invidious.nerdvpn.de/
-status: down
-code: 503
-responseTime: 500
-lastUpdated: 2023-03-27T11:17:44.627Z
+status: up
+code: 200
+responseTime: 5976
+lastUpdated: 2023-03-27T11:30:33.753Z
 startTime: Wed Feb 01 2023 14:44:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
