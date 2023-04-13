@@ -1,7 +1,7 @@
 url: https://invidious.esmailelbob.xyz/
-status: up
-code: 200
-responseTime: 2777
-lastUpdated: 2023-04-12T23:07:52.835Z
+status: down
+code: 502
+responseTime: 300
+lastUpdated: 2023-04-13T22:00:29.973Z
 startTime: Wed Feb 01 2023 14:44:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
