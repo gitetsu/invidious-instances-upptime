@@ -1,7 +1,7 @@
 url: https://vid.puffyan.us/
-status: up
-code: 200
-responseTime: 121
-lastUpdated: 2023-04-18T23:07:39.834Z
+status: down
+code: 502
+responseTime: 257
+lastUpdated: 2023-04-19T16:18:08.269Z
 startTime: Wed Feb 01 2023 14:44:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
