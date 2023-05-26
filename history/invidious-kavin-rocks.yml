@@ -1,7 +1,7 @@
 url: https://invidious.kavin.rocks/
-status: up
-code: 200
-responseTime: 4680
-lastUpdated: 2023-05-26T14:27:06.925Z
+status: down
+code: 502
+responseTime: 1156
+lastUpdated: 2023-05-26T17:44:09.274Z
 startTime: Wed Feb 01 2023 14:44:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
