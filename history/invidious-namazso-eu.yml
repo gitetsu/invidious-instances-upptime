@@ -1,7 +1,7 @@
 url: https://invidious.namazso.eu/
-status: up
-code: 200
-responseTime: 1040
-lastUpdated: 2023-05-26T23:07:48.725Z
+status: down
+code: 502
+responseTime: 3418
+lastUpdated: 2023-05-27T16:49:10.476Z
 startTime: Wed Feb 01 2023 14:44:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
