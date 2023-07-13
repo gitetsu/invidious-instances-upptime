@@ -1,7 +1,7 @@
 url: https://vid.priv.au/
-status: up
-code: 200
-responseTime: 14451
-lastUpdated: 2023-07-12T23:09:15.797Z
+status: down
+code: 502
+responseTime: 7592
+lastUpdated: 2023-07-13T04:00:07.496Z
 startTime: Wed Feb 01 2023 14:44:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
