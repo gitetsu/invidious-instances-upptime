@@ -1,7 +1,7 @@
 url: https://iv.ggtyler.dev/
-status: up
-code: 200
-responseTime: 1344
-lastUpdated: 2023-08-05T12:34:37.963Z
+status: down
+code: 502
+responseTime: 24363
+lastUpdated: 2023-08-05T21:04:59.550Z
 startTime: Wed Feb 01 2023 14:45:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
