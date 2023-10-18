@@ -1,7 +1,7 @@
 url: https://invidious.privacydev.net/
-status: down
-code: 502
-responseTime: 17913
-lastUpdated: 2023-10-18T18:30:46.753Z
+status: up
+code: 200
+responseTime: 871
+lastUpdated: 2023-10-18T18:43:11.684Z
 startTime: 2023-02-01T14:44:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
