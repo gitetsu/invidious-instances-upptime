@@ -1,7 +1,7 @@
 url: https://inv.bp.projectsegfau.lt/
-status: up
-code: 200
-responseTime: 8748
-lastUpdated: 2023-10-31T23:07:39.933Z
+status: down
+code: 502
+responseTime: 6438
+lastUpdated: 2023-11-01T07:11:47.476Z
 startTime: 2023-02-01T14:44:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
