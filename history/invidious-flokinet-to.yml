@@ -1,7 +1,7 @@
 url: https://invidious.flokinet.to/
-status: up
-code: 200
-responseTime: 1520
-lastUpdated: 2023-11-25T23:52:41.444Z
+status: down
+code: 502
+responseTime: 758
+lastUpdated: 2023-11-26T02:58:43.448Z
 startTime: 2023-02-01T14:44:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
