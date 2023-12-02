@@ -98,7 +98,7 @@
     "timeMonth": 999,
     "timeYear": 6088,
     "dailyMinutesDown": {
-      "2023-12-02": 392,
+      "2023-12-02": 406,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -395,9 +395,9 @@
     "slug": "invidious-flokinet-to",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "69.01%",
-    "uptimeWeek": "90.32%",
-    "uptimeMonth": "94.93%",
+    "uptimeDay": "68.08%",
+    "uptimeWeek": "90.18%",
+    "uptimeMonth": "94.90%",
     "uptimeYear": "99.25%",
     "time": 2812,
     "timeDay": 7255,
@@ -405,7 +405,7 @@
     "timeMonth": 6751,
     "timeYear": 2812,
     "dailyMinutesDown": {
-      "2023-12-02": 164,
+      "2023-12-02": 178,
       "2023-12-01": 385,
       "2023-11-30": 104,
       "2023-11-27": 156,
@@ -556,7 +556,7 @@
     "uptime": "97.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.29%",
-    "uptimeMonth": "97.87%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "97.57%",
     "time": 2481,
     "timeDay": 1861,
@@ -983,7 +983,7 @@
     "timeMonth": 0,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2023-12-02": 393,
+      "2023-12-02": 406,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -1245,7 +1245,7 @@
     "timeMonth": 0,
     "timeYear": 1392,
     "dailyMinutesDown": {
-      "2023-12-02": 393,
+      "2023-12-02": 406,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -1694,7 +1694,7 @@
     "timeMonth": 0,
     "timeYear": 968,
     "dailyMinutesDown": {
-      "2023-12-02": 393,
+      "2023-12-02": 406,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -2030,7 +2030,7 @@
     "timeMonth": 558,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2023-12-02": 393,
+      "2023-12-02": 406,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -2095,7 +2095,7 @@
     "timeMonth": 0,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2023-12-02": 393,
+      "2023-12-02": 406,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -2521,19 +2521,19 @@
     "url": "https://invidious.lidarshield.cloud/",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ad.png",
     "slug": "invidious-lidarshield-cloud",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "91.08%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "91.18%",
+    "uptimeYear": "99.12%",
     "time": 460,
     "timeDay": 600,
     "timeWeek": 643,
     "timeMonth": 294,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2023-12-02": 46,
+      "2023-12-02": 49,
       "2023-11-29": 61,
       "2023-11-27": 15,
       "2023-11-25": 17,
@@ -2546,7 +2546,7 @@
       "2023-11-07": 644,
       "2023-11-06": 561,
       "2023-11-05": 629,
-      "2023-11-04": 250
+      "2023-11-04": 203
     }
   },
   {
@@ -2792,7 +2792,7 @@
     "timeMonth": 0,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2023-12-02": 393,
+      "2023-12-02": 406,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -3077,7 +3077,7 @@
     "timeMonth": 193,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2023-12-02": 393,
+      "2023-12-02": 407,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
