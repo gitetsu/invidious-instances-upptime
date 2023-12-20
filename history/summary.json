@@ -105,7 +105,7 @@
     "timeMonth": 1029,
     "timeYear": 6003,
     "dailyMinutesDown": {
-      "2023-12-20": 801,
+      "2023-12-20": 827,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -1032,7 +1032,7 @@
     "timeMonth": 0,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2023-12-20": 802,
+      "2023-12-20": 828,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -1312,7 +1312,7 @@
     "timeMonth": 0,
     "timeYear": 1392,
     "dailyMinutesDown": {
-      "2023-12-20": 802,
+      "2023-12-20": 828,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -1780,7 +1780,7 @@
     "timeMonth": 0,
     "timeYear": 968,
     "dailyMinutesDown": {
-      "2023-12-20": 802,
+      "2023-12-20": 828,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -2134,7 +2134,7 @@
     "timeMonth": 544,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2023-12-20": 802,
+      "2023-12-20": 828,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -2217,7 +2217,7 @@
     "timeMonth": 0,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2023-12-20": 802,
+      "2023-12-20": 828,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -2661,11 +2661,11 @@
     "url": "https://invidious.lidarshield.cloud/",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ad.png",
     "slug": "invidious-lidarshield-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "46.72%",
-    "uptimeWeek": "58.39%",
-    "uptimeMonth": "89.60%",
+    "uptimeDay": "48.30%",
+    "uptimeWeek": "58.36%",
+    "uptimeMonth": "89.63%",
     "uptimeYear": "99.02%",
     "time": 434,
     "timeDay": 179,
@@ -2673,7 +2673,7 @@
     "timeMonth": 424,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2023-12-20": 432,
+      "2023-12-20": 435,
       "2023-12-19": 835,
       "2023-12-18": 806,
       "2023-12-17": 612,
@@ -2682,8 +2682,7 @@
       "2023-12-14": 362,
       "2023-12-12": 87,
       "2023-12-05": 211,
-      "2023-12-02": 46,
-      "2023-11-29": 18
+      "2023-12-02": 46
     }
   },
   {
@@ -2940,7 +2939,7 @@
     "timeMonth": 0,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2023-12-20": 803,
+      "2023-12-20": 828,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -3243,7 +3242,7 @@
     "timeMonth": 215,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2023-12-20": 803,
+      "2023-12-20": 828,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -3372,11 +3371,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "yt-oelrichsgarcia-de",
     "status": "up",
-    "uptime": "70.12%",
+    "uptime": "70.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.12%",
+    "uptimeYear": "70.13%",
     "time": 945,
     "timeDay": 758,
     "timeWeek": 980,
