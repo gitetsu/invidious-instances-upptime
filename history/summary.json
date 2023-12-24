@@ -105,7 +105,7 @@
     "timeMonth": 1054,
     "timeYear": 5985,
     "dailyMinutesDown": {
-      "2023-12-24": 476,
+      "2023-12-24": 513,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -1038,7 +1038,7 @@
     "timeMonth": 0,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2023-12-24": 477,
+      "2023-12-24": 514,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -1322,7 +1322,7 @@
     "timeMonth": 0,
     "timeYear": 1392,
     "dailyMinutesDown": {
-      "2023-12-24": 477,
+      "2023-12-24": 514,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -1796,7 +1796,7 @@
     "timeMonth": 0,
     "timeYear": 968,
     "dailyMinutesDown": {
-      "2023-12-24": 477,
+      "2023-12-24": 514,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -2071,18 +2071,17 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "invidious-privacydev-net",
     "status": "up",
-    "uptime": "98.61%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "98.61%",
+    "uptime": "98.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "98.60%",
     "time": 2608,
     "timeDay": 1072,
     "timeWeek": 2366,
     "timeMonth": 2091,
     "timeYear": 2608,
     "dailyMinutesDown": {
-      "2023-12-24": 11,
       "2023-12-21": 24,
       "2023-12-19": 15,
       "2023-12-18": 21,
@@ -2135,7 +2134,7 @@
       "2023-09-29": 23,
       "2023-09-26": 23,
       "2023-09-25": 16,
-      "2023-09-24": 17
+      "2023-09-24": 36
     }
   },
   {
@@ -2155,7 +2154,7 @@
     "timeMonth": 536,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2023-12-24": 477,
+      "2023-12-24": 514,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -2242,7 +2241,7 @@
     "timeMonth": 0,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2023-12-24": 477,
+      "2023-12-24": 514,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -2690,11 +2689,11 @@
     "url": "https://invidious.lidarshield.cloud/",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ad.png",
     "slug": "invidious-lidarshield-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "61.91%",
-    "uptimeWeek": "55.63%",
-    "uptimeMonth": "89.19%",
+    "uptimeDay": "62.50%",
+    "uptimeWeek": "55.95%",
+    "uptimeMonth": "89.23%",
     "uptimeYear": "98.99%",
     "time": 408,
     "timeDay": 201,
@@ -2702,7 +2701,7 @@
     "timeMonth": 374,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2023-12-24": 292,
+      "2023-12-24": 294,
       "2023-12-23": 419,
       "2023-12-22": 514,
       "2023-12-21": 559,
@@ -2710,7 +2709,7 @@
       "2023-12-19": 835,
       "2023-12-18": 806,
       "2023-12-17": 612,
-      "2023-12-16": 22
+      "2023-12-16": 2
     }
   },
   {
@@ -2972,7 +2971,7 @@
     "timeMonth": 0,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2023-12-24": 477,
+      "2023-12-24": 514,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -3279,7 +3278,7 @@
     "timeMonth": 225,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-12-24": 477,
+      "2023-12-24": 514,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -3412,11 +3411,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "yt-oelrichsgarcia-de",
     "status": "up",
-    "uptime": "70.46%",
+    "uptime": "70.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "70.46%",
+    "uptimeYear": "70.47%",
     "time": 944,
     "timeDay": 1290,
     "timeWeek": 897,
