@@ -105,7 +105,7 @@
     "timeMonth": 1078,
     "timeYear": 5954,
     "dailyMinutesDown": {
-      "2023-12-31": 633,
+      "2023-12-31": 646,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -596,11 +596,11 @@
     "url": "https://inv.bp.projectsegfau.lt/",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png",
     "slug": "inv-bp-projectsegfau-lt",
-    "status": "up",
+    "status": "down",
     "uptime": "97.56%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "97.57%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "97.56%",
     "uptimeYear": "97.56%",
     "time": 2470,
     "timeDay": 1152,
@@ -608,6 +608,7 @@
     "timeMonth": 2343,
     "timeYear": 2470,
     "dailyMinutesDown": {
+      "2023-12-31": 3,
       "2023-12-30": 32,
       "2023-12-28": 64,
       "2023-12-20": 29,
@@ -1049,7 +1050,7 @@
     "timeMonth": 0,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2023-12-31": 634,
+      "2023-12-31": 647,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1340,7 +1341,7 @@
     "timeMonth": 0,
     "timeYear": 1392,
     "dailyMinutesDown": {
-      "2023-12-31": 634,
+      "2023-12-31": 647,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1821,7 +1822,7 @@
     "timeMonth": 0,
     "timeYear": 968,
     "dailyMinutesDown": {
-      "2023-12-31": 634,
+      "2023-12-31": 647,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -2185,7 +2186,7 @@
     "timeMonth": 542,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2023-12-31": 634,
+      "2023-12-31": 648,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -2279,7 +2280,7 @@
     "timeMonth": 0,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2023-12-31": 634,
+      "2023-12-31": 648,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -2738,25 +2739,25 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ad.png",
     "slug": "invidious-lidarshield-cloud",
     "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "55.95%",
-    "uptimeWeek": "56.59%",
-    "uptimeMonth": "90.01%",
-    "uptimeYear": "99.09%",
+    "uptime": "99.08%",
+    "uptimeDay": "57.77%",
+    "uptimeWeek": "56.34%",
+    "uptimeMonth": "89.95%",
+    "uptimeYear": "99.08%",
     "time": 382,
     "timeDay": 422,
     "timeWeek": 292,
     "timeMonth": 327,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2023-12-31": 234,
+      "2023-12-31": 221,
       "2023-12-30": 783,
       "2023-12-29": 658,
       "2023-12-28": 635,
       "2023-12-27": 536,
       "2023-12-26": 688,
       "2023-12-25": 743,
-      "2023-12-24": 100
+      "2023-12-24": 138
     }
   },
   {
@@ -3019,7 +3020,7 @@
     "timeMonth": 0,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2023-12-31": 634,
+      "2023-12-31": 648,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -3333,7 +3334,7 @@
     "timeMonth": 219,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-12-31": 634,
+      "2023-12-31": 648,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
